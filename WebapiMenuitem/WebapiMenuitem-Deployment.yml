@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: WebapiMenuitem
-        image: acr20220619.azurecr.io/myapirepo:latest:latest
+        image: acr20220620.azurecr.io/myapirepo:latest:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
